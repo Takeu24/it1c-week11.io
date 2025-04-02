@@ -1,0 +1,16 @@
+.card {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.card-body {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.8);
+    width: 100%;
+    padding: 10px;
+}
+label {
+    padding: 15px;
+}
